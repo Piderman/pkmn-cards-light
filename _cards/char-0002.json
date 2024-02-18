@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "pokemon_id": 4,
+  "moves": [
+    1,
+    2
+  ],
+  "level": 6
+}
